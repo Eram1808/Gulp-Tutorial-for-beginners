@@ -1,0 +1,1 @@
+*,:after,:before{box-sizing:border-box}h1{font-family:Arial,Helvetica,sans-serif;color:#353535}.container{max-width:1120px;margin:0 auto}.row{display:flex;flex-wrap:wrap;justify-content:space-evenly}.col{width:100%;padding:10px;margin-top:10px;color:#eee;background-color:#009cd8;border:2px solid #353535}@media screen and (min-width:720px){.col{width:33%}}

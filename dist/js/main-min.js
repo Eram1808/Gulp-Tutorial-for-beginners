@@ -1,0 +1,1 @@
+var encryptData=function(e,t){var a=document.getElementById(e).value,n=btoa(a);document.getElementById(t).value=n},decryptData=function(e,t){var a=document.getElementById(e).value,n=atob(a);document.getElementById(t).value=n};
